@@ -4,6 +4,10 @@ Using the tools and techniques you learned in this class, design, prototype and 
 
 Project plan - November 15
 
+Google Doc: https://docs.google.com/document/d/1tY0dgCaez3t-gsv-lJSgg6SQf8FUCPhlGfKZ0m2dYyw/edit?usp=sharing
+
+Idea Slide: https://docs.google.com/presentation/d/1il5nJV2FVKNd_7D5PSS36YFSi_BLxcFjOCkexU8aIdo/edit?usp=sharing
+
 Peer feedback on Project plans: November 17
 
 Functional check-off - November 29 & December 1
@@ -14,7 +18,8 @@ Write-up and documentation due - December 12
 
 ## Objective
 
-The goal of this final project is for you to have a fully functioning and well-designed interactive device of your own design.
+The goal of this final project is for you to have a fully functioning and well-designed interactive device of your own design
+
  
 ## Description
 Your project is to design and build an interactive device to suit a specific application of your choosing, and test the interaction with people. 
